@@ -1,0 +1,57 @@
+body{
+
+    background-color: purple;
+
+margin: 0;
+
+}
+.header{
+
+background-color: red;
+
+border: 2px solid rgb(red, green, blue);
+
+height: 6em;
+
+}
+.header .logo{
+
+float: left;
+
+width: 52px;
+
+margin-top: 15px;
+
+margin-left: 15px;
+
+}
+.header .slogan{
+
+float: right;
+
+font-size: 30px;
+
+}
+.Video{
+
+    text-align: center;
+
+}
+.footer{
+
+background-color: red;
+
+border: 2px solid rgb(red, green, blue);
+
+height: 3em;
+
+font-size: 30px;
+
+text-align: center;
+
+}
+.Text{
+
+padding: 15px;
+
+}
